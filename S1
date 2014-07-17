@@ -1,0 +1,20 @@
+import java.io.*;
+import java.net.*;
+
+class MySamplecode
+{
+  public static void main(String args[ ])
+   {
+     try
+        {
+           
+          System.out.println("HIIIII ");
+          data=dis.readLine();
+        }
+    catch(Exception e)
+        {
+
+        }
+
+   }
+}
